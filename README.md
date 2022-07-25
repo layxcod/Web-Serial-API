@@ -3,8 +3,8 @@
 i use HTML\Javascript\arduino
 
 
-After creating the Arabic speaking page and printing the text, we now need to link the page in Arduino using JavaScript
-I used the Web Serial API to connect the page I worked on previously with Arduino
+After creating the Arabic speaking page and printing the text, now we need to link the html page in Arduino using JavaScript, than
+I used the Web Serial API to connect the page that I worked on previously with Arduino.
 
 to link html page and javaScript:
 
@@ -17,7 +17,7 @@ to link html page and javaScript:
         </script>`
        
        
- to defind moves: 
+ to define moves: 
        
      `Servo gripper;
 
