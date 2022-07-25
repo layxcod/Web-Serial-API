@@ -34,3 +34,4 @@ $("#start-btn").click(function(event) {
 textbox.on('input', function() {
  content = $(this).val()
 })
+
