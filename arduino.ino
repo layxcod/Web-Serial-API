@@ -10,7 +10,6 @@ double shoulder_angle=90;
 double elbow_angle=90;
 double wrist_angle=90;
 
-
 void setup() {
  Serial.begin(115200);
    base.attach(8);
@@ -25,7 +24,6 @@ void setup() {
   wrist.write(wrist_angle);
 
 }
-
 
 
 String getValue(String data, char separator, int index)
